@@ -21,7 +21,6 @@ export class profile extends Component {
 	// };
 	render() {
 		let data: null;
-
 		if (this.state.showPerson === true) {
 			data = (
 				<tbody>
