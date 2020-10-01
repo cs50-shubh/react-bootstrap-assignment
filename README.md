@@ -145,7 +145,7 @@ my-app/
     logo.svg
 ```
 
-For the project to build, **these files must exist with exact filenames**:
+For this project to build, **These files must exist with exact file-names**:
 
 * `public/index.html` is the page template;
 * `src/index.js` is the JavaScript entry point.
